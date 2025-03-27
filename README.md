@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Anwar</h1>
-<h3 align="center">With over 9+.years of experience as a dev in the tech industry, I help revolutionize the digital frontier by influencing and aiding technological growth.</h3>
+<h3 align="center">With over 10+.years of experience as a dev in the tech industry, I help revolutionize the digital frontier by influencing and aiding technological growth.</h3>
 # 💫 About Me:
 🔭 I’m currently working on OhanaPay<br><br>🌱 I’m currently learning Dev Ops<br><br>👯 I’m looking to collaborate on AI + ML (NLP) Projects<br><br>👨‍💻 All of my projects are available at https://rebelforce.tech<br><br>💬 Ask me about React, Node.js, Express, Mongo, Postgres, Loopback,<br><br>📫 How to reach me abrar@rebelforce.tech<br><br>⚡ Fun fact I can fly a Cessna 152<br><br>
 
